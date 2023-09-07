@@ -1,0 +1,189 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8e8e8e">
+    <mj-raw>
+      <!-- start of main img -->
+    </mj-raw>
+    <mj-section padding="10px 0 0 0">
+      <mj-column padding="0">
+        <mj-image href="#" alt="main-img" src="./components/header-img.png" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of main img -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of main message -->
+    </mj-raw>
+    <mj-section background-color="#0856a5" padding-top="15px">
+      <mj-column>
+        <mj-text align="left" color="#FFFFFF" font-size="25px" font-weight="400" padding-top="0" padding-bottom="5px">
+          Unlock Your Radient Skin Today!
+        </mj-text>
+        <mj-text align="left" color="#FFFFFF" font-size="12px" font-weight="300" line-height="1.5" padding-top="8px" padding-bottom="0">
+          We take a holistic, minimally invasive, scientific approach to empower your confidence through your skin.
+          Explore our different services including Botox, Filler, Facials, Body Sculpting and more.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of main message -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of top relatable procedures section -->
+    </mj-raw>
+    <mj-section background-color="#cbd8e1" padding="30px 5px" direction="rtl">
+      <mj-column width="40%">
+        <mj-text align="left" color="#0856a5" font-size="25px" font-weight="500" letter-spacing=".5px" padding-bottom="5px">
+          Micro-needling
+        </mj-text>
+        <mj-text align="left" color="#0856a5" font-size="12px" font-weight="400" padding-top="10px" line-height="18px" padding-bottom="5px">
+          Tiny needles pierce the skin. Allowing your skins natural healing ability to reduce the look of fine lines, scars and wrinkles.
+        </mj-text>
+        <mj-text padding-top="10px" align="left">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="micro-ndl-img" href="#" src="./components/micondl-img.jpeg" padding-top="20px" height="165px" width="215px" border-radius="0 50%" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#cbd8e1">
+      <mj-column padding="0">
+        <mj-divider border-width="1px" border-style="solid" border-color="#0856a5" padding-top="0" />
+        </mj-coulmn>
+    </mj-section>
+    <mj-section background-color="#cbd8e1" padding="30px 5px" direction="ltr">
+      <mj-column width="40%">
+        <mj-text align="left" color="#0856a5" font-size="25px" font-weight="500" letter-spacing=".5px" padding-bottom="5px">
+          BroadBand Light (BBL)
+        </mj-text>
+        <mj-text align="left" color="#0856a5" font-size="12px" font-weight="400" padding-top="10px" line-height="18px" padding-bottom="5px">
+          A corrective process that restores your skin to its natural beauty, making it clearer, smoother, vibrant and younger looking.
+        </mj-text>
+        <mj-text padding-top="10px" align="left">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="brd-bnd-light-img" href="#" src="./components/brd-bnd-light-img.jpeg" padding-top="35px" height="175px" width="215px" border-radius="50% 0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#cbd8e1">
+      <mj-column padding="0">
+        <mj-divider border-width="1px" border-style="solid" border-color="#0856a5" padding-top="0" />
+        </mj-coulmn>
+    </mj-section>
+    <mj-section background-color="#cbd8e1" padding="30px 5px" direction="rtl">
+      <mj-column width="40%">
+        <mj-text align="left" color="#0856a5" font-size="25px" font-weight="500" letter-spacing=".5px" padding-bottom="5px">
+          Halo™ Hybrid Fractional Laser
+        </mj-text>
+        <mj-text align="left" color="#0856a5" font-size="12px" font-weight="400" padding-top="10px" line-height="18px" padding-bottom="5px">
+          Precisely target skin damage at the right depth and improve the appearance of fine lines,
+          sun damage, large pores and dull or uneven skin tone. Without the downtime of more aggressive treatments.
+        </mj-text>
+        <mj-text padding-top="10px" align="left">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="halo-laser-img" href="#" src="./components/halo-laser-img.jpeg" padding-top="35px" height="165px" width="215px" border-radius="0 50%" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#cbd8e1">
+      <mj-column padding="0">
+        <mj-divider border-width="1px" border-style="solid" border-color="#0856a5" padding-top="0" />
+        </mj-coulmn>
+    </mj-section>
+    <mj-section background-color="#cbd8e1" padding="30px 5px" direction="ltr">
+      <mj-column width="40%">
+        <mj-text align="left" color="#0856a5" font-size="25px" font-weight="500" letter-spacing=".5px" padding-bottom="5px">
+          LED Light Therapy
+        </mj-text>
+        <mj-text align="left" color="#0856a5" font-size="12px" font-weight="400" padding-top="10px" line-height="18px" padding-bottom="5px">
+          Deep penetrating LED light which targets deep into skin cells, improving their internal functions, stimulating dermal blood circulation, and creating faster healing so that your skin stays rejuvenated.
+        </mj-text>
+        <mj-text padding-top="10px" align="left">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="int-pul-it-img" href="#" src="./components/int-pul-lt-img.jpeg" padding-top="35px" height="165px" width="210px" border-radius="50% 0" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end start of top relatable procedures section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of request cosmetic section -->
+    </mj-raw>
+    <mj-section background-color="#0856a5" padding="0">
+      <mj-column width="100%">
+        <mj-image alt="group-img" href="#" src="./components/group-model-img.jpeg" padding="0" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="left" color="#FFFFFF" font-size="20px" font-weight="400" padding-top="25px" padding-bottom="5px">
+          Cosmetic Dermatology at Anne Arundel Dermatology
+        </mj-text>
+        <mj-text align="left" color="#FFFFFF" font-size="12px" font-weight="300" line-height="1.5" padding-top="5px" padding-bottom="0">
+          Our skilled cosmetic providers believe in personalized treatment plans.
+          This helps our new and current patients achieve their individual cosmetic goals.
+        </mj-text>
+        <mj-text padding-top="15px" padding-bottom="15px" align="center">
+          <a href="#" style="color: #FFFFFF; letter-spacing: .9px; font-size: 20px;">Request a Cosmetic Consultation</a>
+        </mj-text>
+        <mj-text align="left" color="#FFFFFF" font-size="12px" font-weight="300" line-height="1.5" padding-top="5px" padding-bottom="25px">
+          Our providers have also dedicated time into ongoing education with extensive, hands-on injectable, laser, and product trainings.
+          This allows our providers to give their patients their best cosmetic service yet by staying current and learning advanced techniques to
+          achieve maximum results.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of request cosmetic section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of footer -->
+    </mj-raw>
+    <mj-section background-color="#818181" padding-bottom="2px">
+      <mj-column>
+        <mj-image alt="footer-logo" href="#" align="center" src="./components/footer-logo-img.PNG" height="100px" width="280px" padding-top="25px" padding-bottom="10px" />
+        <mj-text align="center" padding-top="5px" font-size="12px" font-weight="500" padding-bottom="5px" line-height="18px">
+          &copy 2023 <a href="#" style="text-decoration: none; color: black;">Anne Arundel Dermatology</a> | All Rights Reserved. | <a href="#" style="text-decoration: none; color: black;">Stay Connected</a> | <a href="#" style="text-decoration: none; color: black;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#818181" padding-top="10px" padding-bottom="5px">
+      <mj-group>
+        <mj-column width="50%" padding="0">
+          <mj-image alt="facebook-logo" href="#" align="right" src="./components/facebook-logo.png" height="35px" width="35px" />
+        </mj-column>
+        <mj-column width="50%" padding="0">
+          <mj-image alt="instagram-logo" href="#" align="left" src="./components/ig-logo.png" height="35px" width="35px" />
+        </mj-column>
+        </mj-goup>
+    </mj-section>
+    <mj-section background-color="#818181" padding-top="0" padding-bottom="50px">
+      <mj-column>
+        <mj-text font-size="12px" line-height="18px" font-weight="400" align="center" padding="0 65px">
+          This email is not designed to and does not provide medical advice, professional diagnosis,
+          opinin, treatment or services to you or any other individual. Though this email and linkages to other sites,
+          Anne Arundel Dermatology, P.A. provides general information for educational purposes only. The information provided in this email,
+          or through linkages to other sites, is not a substitute for medical or professional care, and you should not use the information in place of a visit,
+          call consultation or the advice of your physician or other healthcare provider. Anne Arundel Dermatology, P.A. is not liable or responsible for any advice,
+          course of treatment, diagnosis or any other information, services or product you obtain through this email.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
